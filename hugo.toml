@@ -15,7 +15,7 @@ paginationSinglePost = true
 readNextPosts = 2
 
 rssAsSocialIcon = true
-locale = "en-us"
+locale = "en"
 toc = true
 
 [params.author]
