@@ -75,32 +75,32 @@ weight = 4
 
 [languages]
 [languages.en]
-languageName = "En"
+languageName = "EN"
 
 [languages.fr]
-languageName = "Fr"
+languageName = "FR"
 
 [[languages.fr.menu.main]]
 identifier = "home"
-name = "accueil"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[languages.fr.menu.main]]
 identifier = "about"
-name = "à propos"
+name = "À propos"
 url = "/about/"
 weight = 2
 
 [[languages.fr.menu.main]]
 identifier = "tags"
-name = "tags"
+name = "Tags"
 url = "/tags/"
 weight = 3
 
-[[languages.pl.menu.main]]
+[[languages.fr.menu.main]]
 identifier = "archive"
-name = "archive"
+name = "Archive"
 url = "/posts/"
 weight = 4
 
