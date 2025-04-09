@@ -19,48 +19,9 @@
     
 
     
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="/hugoblog-test/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My first blog post</title>
-      <link>/hugoblog-test/posts/my-first-blog-post/</link>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <author>aina201.ad@gmail.com (Aina)</author>
-      <guid>/hugoblog-test/posts/my-first-blog-post/</guid>
-      <description>&lt;h1 id=&#34;my-content&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#my-content&#34;&gt;
-        ##
-    &lt;/a&gt;
-    My content
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;p&gt;some content
-&lt;img src=&#34;hhttps://yunea.github.io/hugoblog-test/images/Pasted%20image%2020250310134327.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My second blog post</title>
-      <link>/hugoblog-test/posts/my-second-blog-post/</link>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <author>aina201.ad@gmail.com (Aina)</author>
-      <guid>/hugoblog-test/posts/my-second-blog-post/</guid>
-      <description>&lt;h1 id=&#34;my-content&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#my-content&#34;&gt;
-        ##
-    &lt;/a&gt;
-    My content
-&lt;/div&gt;
-&lt;/h1&gt;
-&lt;p&gt;some content&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;hhttps://yunea.github.io/hugoblog-test/images/home.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

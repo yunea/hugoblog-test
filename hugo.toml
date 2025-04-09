@@ -1,4 +1,4 @@
-baseURL = "hhttps://yunea.github.io/hugoblog-test/"
+baseURL = "https://yunea.github.io/hugoblog-test/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "anubis2"
@@ -28,7 +28,7 @@ location = "France"
 enableMathGlobally = false # MathJax (default is false)
 enableCopyCodeButton = false
 enableReadMoreButton = false
-hideFooterAttribution = false # hide "Powered by Hugo, theme" in footer
+hideFooterAttribution = true # hide "Powered by Hugo, theme" in footer
 colorTheme = "auto"
 enableColorThemeSwitcher = true
 
