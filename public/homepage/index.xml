@@ -24,17 +24,17 @@
     
     
     <item>
-      <title>Our Difference</title>
-      <link>/hugoblog-test/homepage/about/</link>
+      <title>Home</title>
+      <link>/hugoblog-test/homepage/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>aina201.ad@gmail.com (Aina)</author>
-      <guid>/hugoblog-test/homepage/about/</guid>
-      <description>&lt;h1 id=&#34;this-is-my-about-page&#34; &gt;
+      <guid>/hugoblog-test/homepage/home/</guid>
+      <description>&lt;h1 id=&#34;home-page&#34; &gt;
 &lt;div&gt;
-    &lt;a href=&#34;#this-is-my-about-page&#34;&gt;
+    &lt;a href=&#34;#home-page&#34;&gt;
         ##
     &lt;/a&gt;
-    This is my about page
+    Home page
 &lt;/div&gt;
 &lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,&lt;/p&gt;

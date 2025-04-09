@@ -48,6 +48,31 @@ customJS = [
     "https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"
 ]
 
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 4
+
 [languages]
 [languages.en]
 languageName = "En"
