@@ -194,27 +194,6 @@ some content
 
 
 
-    
-
-    
-
-
-
-
-
-    
-    
-        
-    
-    
-
-    
-        <script src="/hugoblog-test/js/script.min.08f04d96386c73c9bf4d160333f8f448c05a6e01c06770542ee0e013954ce930.js" type="text/javascript" charset="utf-8" integrity="sha256-CPBNljhsc8m/TRYDM/j0SMBabgHAZ3BULuDgE5VM6TA="></script>
-    
-
-
-
-
 
 
 
@@ -493,30 +472,6 @@ some content
 
 
 
-    <script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[', '\\]']],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  };
-
-  window.addEventListener('load', (event) => {
-      document.querySelectorAll("mjx-container").forEach(function(x){
-        x.parentElement.classList += 'has-jax'})
-    });
-
-</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-
 
 
 
@@ -659,60 +614,6 @@ some content
 
 
 
-
-
-
-    
-
- 
- 
- 
- 
-
-
-
-
-  
-
-
-
-
-
-<script>
-        function detectCurrentScheme2() {
-                const defaultTheme = "auto";
-                if (localStorage !== null && localStorage.getItem("user-color-scheme")) {
-                        return localStorage.getItem("user-color-scheme");
-                }
-                if (defaultTheme === "dark" || defaultTheme === "light") {
-                        return defaultTheme;
-                }
-                return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-        }
-
-        let giscusTheme = detectCurrentScheme2();
-        let giscusAttributes = {
-                src: "https://giscus.app/client.js",
-                "data-repo": "Junyi-99\/hugo-theme-anubis2",
-                "data-repo-id": "R_kgDOLEp76Q",
-                "data-category": "General",
-                "data-category-id": "DIC_kwDOLEp76c4CcbPS",
-                "data-mapping": "pathname",
-                "data-strict": "0",
-                "data-reactions-enabled": "1",
-                "data-emit-metadata": "0",
-                "data-input-position": "bottom",
-                "data-theme": giscusTheme,
-                "data-lang": "en",
-                crossorigin: "anonymous",
-                lazyload: "false",
-                async: true,
-        };
-        let main = document.querySelector("main");
-        let giscusScript = document.createElement("script");
-        Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
-        main.appendChild(giscusScript);
-</script>
 
 
 

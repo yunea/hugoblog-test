@@ -3,7 +3,6 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "anubis2"
 title = "Aina Dirou"
-disqusShortname = ""
 
 [pagination]
 pagerSize = 5
@@ -19,16 +18,6 @@ rssAsSocialIcon = true
 locale = "en-us"
 toc = true
 
-# Graphcomment support
-graphcommentId = ""
-
-GiscusRepo = "Junyi-99/hugo-theme-anubis2"
-GiscusRepoId = "R_kgDOLEp76Q"
-GiscusDiscussionCategory = "General"
-GiscusCategoryId = "DIC_kwDOLEp76c4CcbPS"
-GiscusLazyLoad = false
-GiscusDataMapping = "pathname"
-
 [params.author]
 name = "Aina"
 email  = "aina201.ad@gmail.com"
@@ -36,9 +25,9 @@ location = "France"
 
 
 [params.anubis2]
-enableMathGlobally = true # MathJax (default is false)
-enableCopyCodeButton = true
-enableReadMoreButton = true
+enableMathGlobally = false # MathJax (default is false)
+enableCopyCodeButton = false
+enableReadMoreButton = false
 hideFooterAttribution = false # hide "Powered by Hugo, theme" in footer
 colorTheme = "auto"
 enableColorThemeSwitcher = true
