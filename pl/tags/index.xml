@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aina Dirou</title>
-    <link>/hugoblog-test/tags/</link>
+    <link>/hugoblog-test/pl/tags/</link>
     <description>Aina Dirou (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>pl</language>
     
       
         <managingEditor>aina201.ad@gmail.com
@@ -19,9 +19,8 @@
     
 
     
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="/hugoblog-test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/hugoblog-test/pl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
