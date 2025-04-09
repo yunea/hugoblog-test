@@ -9,4 +9,4 @@ tags:
 # My content
 some content
 
-!![Image Description](/images/home.jpg)
+![Image Description](/images/home.jpg)

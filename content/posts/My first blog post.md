@@ -8,4 +8,4 @@ tags:
 
 # My content
 some content
-!![Image Description](/images/Pasted%20image%2020250310134327.png)
+![Image Description](/images/Pasted%20image%2020250310134327.png)
