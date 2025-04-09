@@ -6,5 +6,5 @@ aliases: ["about-us", "about-hugo"]
 author: ["Hugo Authors", "Junyi", "Aina"]
 ---
 
-# About page !
+# About page w/ homepage!
 Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
