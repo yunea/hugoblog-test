@@ -33,7 +33,7 @@
 &lt;/div&gt;
 &lt;/h1&gt;
 &lt;p&gt;some content
-![[Pasted image 20250310134327.png]]&lt;/p&gt;
+!&lt;img src=&#34;https://hugo-theme-anubis2.netlify.app/images/Pasted%20image%2020250310134327.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -52,7 +52,7 @@
 &lt;/div&gt;
 &lt;/h1&gt;
 &lt;p&gt;some content&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;https://hugo-theme-anubis2.netlify.app/images/home.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;![[home.jpg]]&lt;/p&gt;
 </description>
     </item>
     
