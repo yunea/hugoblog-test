@@ -50,10 +50,10 @@ customJS = [
 
 [languages]
 [languages.en]
-languageName = "English"
+languageName = "En"
 
 [languages.fr]
-languageName = "French"
+languageName = "Fr"
 
 [[languages.fr.menu.main]]
 identifier = "home"
