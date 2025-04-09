@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-        <loc>hhttps://yunea.github.io/hugoblog-test/fr/</loc>
+        <loc>https://yunea.github.io/hugoblog-test/fr/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="pl"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/pl/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="fr"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/fr/"
         />
       </url><url>
-        <loc>hhttps://yunea.github.io/hugoblog-test/fr/authors/</loc>
+        <loc>https://yunea.github.io/hugoblog-test/fr/authors/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/authors/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="pl"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/pl/authors/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="fr"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/fr/authors/"
         />
       </url><url>
-        <loc>hhttps://yunea.github.io/hugoblog-test/fr/categories/</loc>
+        <loc>https://yunea.github.io/hugoblog-test/fr/categories/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/categories/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="pl"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/pl/categories/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="fr"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/fr/categories/"
         />
       </url><url>
-        <loc>hhttps://yunea.github.io/hugoblog-test/fr/tags/</loc>
+        <loc>https://yunea.github.io/hugoblog-test/fr/tags/</loc>
         <xhtml:link
           rel="alternate"
           hreflang="en"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/tags/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="pl"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/pl/tags/"
         />
         <xhtml:link
           rel="alternate"
           hreflang="fr"
-          href="#ZgotmplZ"
+          href="https://yunea.github.io/hugoblog-test/fr/tags/"
         />
       </url>
 </urlset>
