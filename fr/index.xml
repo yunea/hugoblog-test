@@ -19,9 +19,28 @@
     
 
     
+    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="/hugoblog-test/fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/hugoblog-test/fr/about/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>aina201.ad@gmail.com (Aina)</author>
+      <guid>/hugoblog-test/fr/about/</guid>
+      <description>&lt;h1 id=&#34;page-à-propos-en-français&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#page-%c3%a0-propos-en-fran%c3%a7ais&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Page à propos en français
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

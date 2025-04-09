@@ -25,6 +25,24 @@
     
     
     <item>
+      <title>About</title>
+      <link>/hugoblog-test/about/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>aina201.ad@gmail.com (Aina)</author>
+      <guid>/hugoblog-test/about/</guid>
+      <description>&lt;h1 id=&#34;about-page-&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#about-page-&#34;&gt;
+        ##
+    &lt;/a&gt;
+    About page !
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My first blog post</title>
       <link>/hugoblog-test/posts/my-first-blog-post/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
