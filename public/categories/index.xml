@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Anubis2 Demo Site</title>
-    <link>/categories/</link>
-    <description>Anubis2 Demo Site (Categories)</description>
+    <title>Categories on Aina Dirou</title>
+    <link>/hugoblog-test/categories/</link>
+    <description>Aina Dirou (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
+      
+        <managingEditor>aina201.ad@gmail.com
+          
+            (Aina)
+          
+        </managingEditor>
       
 
       
@@ -14,7 +20,7 @@
 
     
     
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/hugoblog-test/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

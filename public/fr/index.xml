@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aina Dirou</title>
+    <link>/hugoblog-test/fr/</link>
+    <description>Aina Dirou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+      
+        <managingEditor>aina201.ad@gmail.com
+          
+            (Aina)
+          
+        </managingEditor>
+      
+
+      
+    
+
+    
+    
+    <atom:link href="/hugoblog-test/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
